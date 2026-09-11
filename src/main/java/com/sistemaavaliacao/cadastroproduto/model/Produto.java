@@ -32,6 +32,7 @@ public class Produto {
             return 10;
         }
     }
+    
 
     public double calcularPrecoVenda() {
 
